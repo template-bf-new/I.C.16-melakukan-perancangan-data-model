@@ -1,0 +1,35 @@
+= Dokumen Rancangan Data Model
+
+[.text-center]
+Priyanto Tamami <tamami.oka@gmail.com>
+
+[.text-center]
+Badan Pendapatan Daerah +
+Pemerintah Kabupaten Brebes
+
+:doctype: article
+:author: tamami
+:source-highlighter: rouge
+:table-caption: Tabel 
+:sourcedir: src
+:includedir: contents
+:imagesdir: images
+:chapter-label: Bab
+:figure-caption: Gambar 
+:icons: font
+////
+Use this if you create a full cover in one page
+:front-cover-image: image::./images/title_page.png[]
+////
+//:title-logo-image: images/logo-zimera.png
+
+
+== Hasil Analisis Kebutuhan Data
+
+== Data Model
+
+pada level _conceptual_, _logical_, dan _physical_, yang digambarkan dalam _Entity-Relationship_ model, _Network_ model, _Hierarchical_ model, _Star Scheme_ atau standar model lain
+
+== Deskripsi Objek
+
+penjelasan untuk entitas, atribut, relasi, dan lain lain pada data model
